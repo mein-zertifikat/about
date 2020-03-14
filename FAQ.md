@@ -9,4 +9,4 @@ Antwort: Dafür gibt es einige Gründe (hört sich wie Werbung an, sorry...):
 * Foo ermöglicht _Gruppenbildung_ innerhalb des Projekts.
 * Foo hat eine klare Verwaltungsoberfläche ohne Schnickschnack.
 * Volle Unterstützung von git (remote).
-* Zertifikate sind durchaus ein Thema auf Foo. Besipiel: [_LPIC_](https://github.com/search?q=LPIC)
+* Alleinstreiter gibt es viele. Besipiel: [_LPIC auf GitHub_](https://github.com/search?q=LPIC)
