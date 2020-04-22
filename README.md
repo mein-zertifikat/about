@@ -19,6 +19,5 @@ Also, wenn auch Du denkst, dass Vernetzung eventuell oder ganz sicher ein wesent
 
 ## Unterstütze dieses Projekt!
 
-Sei es durch Nutzung oder Verbreitung der Inhalte oder durch die aktive Diskussion und/oder Mitarbeit:
-
-Du bist netzlich willkommen!
+Sei es durch Nutzung oder Verbreitung der Inhalte oder durch die aktive Diskussion und/oder Mitarbeit am Projekt.
+Du bist herzlich willkommen!
