@@ -4,15 +4,20 @@ Das Wissen und die Fähigkeiten zum Bestehen von Zertifizierungs-Prüfungen kann
 
 Wer sein angestrebtes Zertifikat in Eigenregie erwerben möchte, ist ersteinmal auf sich allein gestellt. Und dort greift eine wesentliche Idee hinter diesem Projekt:
 
-# Ausrichtung durch gezielte Vernetzung
+## Ausrichtung durch gezielte Vernetzung
 
 Wichtiger als das sture Auswendiglernen von Inhalten ist die Vernetzung mit Gleichgesinnten. Mit ihnen kann locker und manchmal auch hitzig über technische oder aberwitzige Themen diskutiert werden. Der wichtigste Faktor für einen besseren Lernfortschritt im Vergleich zum Alleinstreiter ist jedoch das
 
-# Lernen durch Lehren
+## Lernen durch Lehren
 
-Logisch - jeder bringt unterschiedliche Vorerfahrungen mit - und diese werden in einem Team nicht nur gebraucht, sondern, und das ist fast noch wichtiger, immer wieder abgefragt, vertieft, hinterfragt, verworfen, gefestigt, usw. Wenn auch Du denkst, dass Vernetzung eventuell oder ganz sicher ein wesentlicher Erfolgsfaktor für den Erwerb von IT-Zertifikaten ist, dann
+Logisch - jeder bringt unterschiedliche Vorerfahrungen mit - und diese werden in einem Team nicht nur gebraucht, sondern, und das ist fast noch wichtiger, immer wieder abgefragt, vertieft, hinterfragt, verworfen, gefestigt, usw.
 
-# Unterstütze dieses Projekt!
+## Erfolgreich zusammen lernen, trotz sozialer Distanz
+Seit Neuestem ist die sich immer wieder einzuhaltende soziale Distanz zwischen Organisatoren, Lehrenden und Lernenden ein reales Thema. Selbstorganisierende, rein digital vernetzende Lernportale wie dieses hier können einen erheblichen Beitrag dazu leisten, dem Einzelnen trotz aller Einschränkungen den Abschluß eines Zertifikats zu ermöglichen.
+
+Also, wenn auch Du denkst, dass Vernetzung eventuell oder ganz sicher ein wesentlicher Erfolgsfaktor für den Erwerb von IT-Zertifikaten ist, dann
+
+## Unterstütze dieses Projekt!
 
 Sei es durch Nutzung oder Verbreitung der Inhalte oder durch die aktive Diskussion und/oder Mitarbeit:
 
